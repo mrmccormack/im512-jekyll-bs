@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# This was updated on Mac at  home
+
 Some information about you! <strong> HEY! </strong> xxx
 
 ![](https://mrmccormack.github.io/images/shrek.jpg )
