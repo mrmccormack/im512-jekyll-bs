@@ -27,6 +27,16 @@ puts markdown.to_html
 
 ```
 
+---
+
+<div class="highlighter-rouge">
+<pre class="highlight">
+  <code>
+    <span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s1">'Hi'</span><span class="p">;</span>
+  </code>
+</pre>
+</div>
+
 
 ---
 
