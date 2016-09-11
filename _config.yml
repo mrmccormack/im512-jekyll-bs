@@ -14,10 +14,11 @@ url: 'mrmccormack/mrmccormack.github.io'
 ########
 # more settings
 
-markdown: kramdown
 
-kramdown:
-  input: GFM
+
+# Dependencies
+markdown:    kramdown
+highlighter: pygments
 
 sass:
   sass_dir: css
