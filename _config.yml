@@ -34,6 +34,14 @@ sass:
   style:    expanded
 
 
+# Social links for footer
+twitter_username:     r3bl_
+github_username:      aleksandar-todorovic
+linkedin_username:    aleksandartodorovic
+google_plus_username: AleksandarTodorovićr3bl
+facebook_username:    aleksandar.todorovic.r3bl
+dribbble_username:
+  
 
 exclude:
 - README.md
