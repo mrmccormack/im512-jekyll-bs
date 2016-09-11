@@ -25,9 +25,6 @@ exclude:
 - README.md
 
 
-syntax-highlighting:
-  enabled : true
-  css: syntax.css
 
 safe: true
 lsi: false
