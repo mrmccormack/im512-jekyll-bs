@@ -16,12 +16,6 @@ url: 'mrmccormack/mrmccormack.github.io'
 
 
 
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-
 
 sass:
   sass_dir: css
