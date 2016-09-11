@@ -15,18 +15,6 @@ url: 'mrmccormack/mrmccormack.github.io'
 # more settings
 
 
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-
-
-
-highlighter: rouge
-
-
-
 sass:
   sass_dir: css
   style:    expanded
