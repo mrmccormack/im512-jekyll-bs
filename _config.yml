@@ -62,6 +62,7 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji  
+  - jekyll-feed  
 
 safe: true
 lsi: false
