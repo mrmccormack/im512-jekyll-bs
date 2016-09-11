@@ -45,6 +45,11 @@ exclude:
 # https://github.com/jekyll/jemoji
 # http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
+# Sitemap note
+# - it is not in repository, but is created
+# - http://mrmccormack.me/sitemap.xml
+# https://github.com/kinnetica/jekyll-plugins
+
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
