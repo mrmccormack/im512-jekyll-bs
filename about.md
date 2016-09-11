@@ -12,7 +12,19 @@ Some information about you! <strong> HEY! </strong> xxx
 
 ---
 
+## With script tag
+
 <script src="https://gist.github.com/VirtuaCreative/ef47c25b7f8933dd78fcb0f848464dde.js"></script>
+
+
+## With liguid tag
+
+
+
+{% gist VirtuaCreative/ef47c25b7f8933dd78fcb0f848464dde %}
+
+
+
 ---
 
 ```ruby
