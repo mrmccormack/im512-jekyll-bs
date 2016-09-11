@@ -26,6 +26,8 @@ exclude:
 - README.md
 
 
+highlighter: rouge
+
 safe: true
 lsi: false
 
