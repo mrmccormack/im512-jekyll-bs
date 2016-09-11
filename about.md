@@ -12,12 +12,18 @@ Some information about you! <strong> HEY! </strong> xxx
 
 ---
 
+<script src="https://gist.github.com/VirtuaCreative/ef47c25b7f8933dd78fcb0f848464dde.js"></script>
+---
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 
 ```
+
+---
+
 
 ```html
 <a href="#"><i class="fa fa-facebook"></i></a>
