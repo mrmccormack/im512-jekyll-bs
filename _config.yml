@@ -15,11 +15,6 @@ url: 'mrmccormack/mrmccormack.github.io'
 # more settings
 
 
-
-# Dependencies
-markdown:    kramdown
-highlighter: pygments
-
 sass:
   sass_dir: css
   style:    expanded
