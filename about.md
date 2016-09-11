@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: 'About'
 ---
+
 
 # This was updated on Mac at  home **TEST**
 
