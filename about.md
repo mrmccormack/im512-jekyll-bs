@@ -23,9 +23,14 @@ puts markdown.to_html
 
 ---
 
-{{ "{% highlight html linenos "}}%}
-<div>this is some preformatted code</div>
-{{ "{% endhighlight "}}%}
+Happy fun highlighting. 
+[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
 ---
 
