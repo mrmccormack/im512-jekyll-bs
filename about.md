@@ -37,6 +37,14 @@ puts markdown.to_html
 
 ---
 
+# More highlighing, this should work
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 ```html
 <a href="#"><i class="fa fa-facebook"></i></a>
