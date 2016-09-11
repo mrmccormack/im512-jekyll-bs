@@ -23,6 +23,10 @@ kramdown:
 
 
 
+highlighter: rouge
+
+
+
 sass:
   sass_dir: css
   style:    expanded
