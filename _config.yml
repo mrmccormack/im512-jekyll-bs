@@ -16,6 +16,9 @@ url: 'mrmccormack/mrmccormack.github.io'
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+
 sass:
   sass_dir: css
   style:    expanded
