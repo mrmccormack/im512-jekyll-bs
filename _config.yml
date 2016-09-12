@@ -37,10 +37,10 @@ url: 'mrmccormack/mrmccormack.github.io'
 
 
 markdown: kramdown
+
 kramdown:
   input: GFM
-
-highlighter: rouge
+  syntax_highlighter: rouge
 
 
 sass:
