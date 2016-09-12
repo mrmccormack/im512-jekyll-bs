@@ -14,9 +14,9 @@ Some information about you! <strong> HEY! </strong> xxx
 ---
 
     {% if page.title == "Home" %}
-# {{ page.title }} # This is HOME &middot; {{ site.tagline }}
+# {{ page.title }}  This is HOME &middot; {{ site.tagline }}
     {% else %}
-# {{ page.title }} # Thhis is NOT home&middot; {{ site.title }}
+# {{ page.title }} This is NOT home&middot; {{ site.title }}
     {% endif %}
 
 ---
