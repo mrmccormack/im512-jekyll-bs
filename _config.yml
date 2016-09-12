@@ -35,12 +35,17 @@ url: 'mrmccormack/mrmccormack.github.io'
 #   input: GFM
 #   syntax_highlighter: rouge
 
+
+highlighter: rouge
+
+markdown: kramdown
+
 kramdown:
   input: GFM
-  use_coderay: true
-  coderay:
-  coderay_line_numbers: true
-  coderay_css: class
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+
 
 sass:
   sass_dir: css
