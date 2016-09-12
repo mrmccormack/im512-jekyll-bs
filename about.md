@@ -14,11 +14,11 @@ Some information about you! <strong> HEY! </strong> xxx
 ---
 
     {% if page.title == "Home" %}
-      {{ page.title }} <h1>This is HOME &middot; {{ site.tagline }}</h1>
+      {{ page.title }} # This is HOME &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} <h1>Thhis is NOT home&middot; {{ site.title }}</h1>
+      {{ page.title }} # Thhis is NOT home&middot; {{ site.title }}
     {% endif %}
-    
+
 ---
 
 ## With script tag
