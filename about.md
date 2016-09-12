@@ -53,7 +53,7 @@ end
 
 ---
 
-```ruby
+``` ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
@@ -71,7 +71,7 @@ puts markdown.to_html
 ```
 
 
-```html
+``` html
 <a href="#"><i class="fa fa-facebook"></i></a>
 <a href="#"><i class="fa fa-twitter"></i></a>
 <a href="#"><i class="fa fa-linkedin"></i></a>
