@@ -38,14 +38,10 @@ url: 'mrmccormack/mrmccormack.github.io'
 
 
 
-highlighter: rouge
 markdown: kramdown
-kramdown:
+kramdown: 
   input: GFM
-  auto_ids: true
   syntax_highlighter: rouge
-
-
 
 sass:
   sass_dir: css

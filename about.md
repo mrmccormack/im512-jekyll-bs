@@ -7,6 +7,15 @@ active: 'hi'
 
 # This was updated on Mac at  home **TEST**
 
+```c
+
+#include <stdio.h>
+int main(){
+ printf("Hello Drone\n");
+ return 0;
+}
+```
+
 
 ```html
 <h1>Hello World!</h1>
