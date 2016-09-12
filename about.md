@@ -32,6 +32,18 @@ Some information about you! <strong> HEY! </strong> xxx
 
 {% gist VirtuaCreative/ef47c25b7f8933dd78fcb0f848464dde %}
 
+---
+# ANother attempt at code highlighting
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
 
 
 ---
