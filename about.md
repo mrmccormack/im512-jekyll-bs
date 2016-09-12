@@ -18,6 +18,18 @@ class Hello extends World
 }
 ```
 
+<h1>another</h1>
+
+
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+
+
 
 <h1>Sure to get to work</h1>
 
