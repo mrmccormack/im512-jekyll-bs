@@ -13,6 +13,14 @@ Some information about you! <strong> HEY! </strong> xxx
 
 ---
 
+    {% if page.title == "Home" %}
+      {{ page.title }} <h1>This is HOME &middot; {{ site.tagline }}</h1>
+    {% else %}
+      {{ page.title }} <h1>Thhis is NOT home&middot; {{ site.title }}</h1>
+    {% endif %}
+    
+---
+
 ## With script tag
 
 <script src="https://gist.github.com/VirtuaCreative/ef47c25b7f8933dd78fcb0f848464dde.js"></script>
