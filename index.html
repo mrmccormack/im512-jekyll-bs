@@ -18,8 +18,8 @@ title:  'Home'
 	
 	          <!-- https://github.com/mdo/jekyll-example/blob/gh-pages/_includes/head.html good stuff there -->
     {% if page.title == "Home" %}
-      {{ site.title }} This is HOME &middot; {{ site.tagline }}
+      {{ page.title }} <h1>This is HOME &middot; {{ site.tagline }}</h1>
     {% else %}
-      {{ page.title }} Thhis is NOT home&middot; {{ site.title }}
+      {{ page.title }} <h1>Thhis is NOT home&middot; {{ site.title }}</h1>
     {% endif %}
 </p>
