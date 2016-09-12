@@ -7,6 +7,14 @@ active: 'hi'
 
 # This was updated on Mac at  home **TEST**
 
+<h1>Sure to get to work</h1>
+
+`​``html
+<a href="#">Hello world</a>
+<img src="asdf" alt="">
+`​``
+
+
 Some information about you! <strong> HEY! </strong> xxx
 
 ![](https://mrmccormack.github.io/images/shrek.jpg )
