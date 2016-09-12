@@ -29,11 +29,14 @@ url: 'mrmccormack/mrmccormack.github.io'
  #   - jekyll-paginate
 
 
-markdown: kramdown
+# markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
+
+markdown: kramdown
+highlighter: rouge
 
 
 
