@@ -24,7 +24,7 @@ url: 'mrmccormack/mrmccormack.github.io'
  # kramdown:
  #   input: GFM
  #   hard_wrap: false
- # gems:
+ # gems:   
  #   - jekyll-coffeescript
  #   - jekyll-paginate
 
