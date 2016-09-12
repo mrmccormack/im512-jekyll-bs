@@ -5,6 +5,16 @@
  
     <div class="container">
       <div class="content">
+
+      <div>
+          <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} This is HOME &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} Thhis is NOT home&middot; {{ site.title }}
+    {% endif %}
+</title>
+      </div>
         {{ content }}
       </div>
     </div>
