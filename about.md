@@ -9,7 +9,7 @@ active: 'hi'
 
 <h1>Sure to get to work</h1>
 
-~~~html
+~~~ html
 <a href="#">Hello world</a>
 <img src="asdf" alt="">
 
