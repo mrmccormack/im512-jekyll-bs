@@ -14,4 +14,12 @@ title:  'Home'
 
 <a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</a>
 
-
+<p>
+	
+	          <!-- https://github.com/mdo/jekyll-example/blob/gh-pages/_includes/head.html good stuff there -->
+    {% if page.title == "Home" %}
+      {{ site.title }} This is HOME &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} Thhis is NOT home&middot; {{ site.title }}
+    {% endif %}
+</p>
