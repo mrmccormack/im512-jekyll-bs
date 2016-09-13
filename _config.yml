@@ -75,6 +75,7 @@ gems:
   - jekyll-seo-tag
   - jemoji  
   - jekyll-feed  
+  - jekyll-coffeescript
 
 safe: true
 lsi: false
