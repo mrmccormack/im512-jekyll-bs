@@ -35,9 +35,10 @@ url: 'mrmccormack/mrmccormack.github.io'
 #   input: GFM
 #   syntax_highlighter: rouge
 
+kramdown:
+  input: GFM
 
-markdown: kramdown
-highlighter: rouge
+
 
 sass:
   sass_dir: css
