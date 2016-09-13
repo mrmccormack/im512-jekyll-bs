@@ -2,9 +2,11 @@
 layout: default
 title: 'About'
 active: 'hi'
-published: false
+
 ---
 
+<!--  http://stackoverflow.com/questions/23935062/jekyll-github-pages-how-to-hide-a-post -->
+<!-- published: false works with pages and posts, doesn't just hide -->
 
 # This was updated on Mac at  home **TEST**
 
